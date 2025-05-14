@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zaheer Hussain</h1>
 <h3 align="center">JAVA SPRINGBOOT DEVELOPER</h3>
 
+<h3 align="center">About Me</h3>
+<p align="center">
+  Hi, I'm Zaheer Hussain! I'm a passionate <strong>Java Spring Boot Developer</strong> with a love for creating robust and scalable applications. I'm currently focusing on learning <strong>Microservices</strong>, <strong>Apache Kafka</strong>, and <strong>Data Structures & Algorithms</strong> to level up my development skills. 
+</p>
+<p align="center">
+  I enjoy tackling challenges, exploring new technologies, and continuously improving my coding practices. When I'm not coding, you can find me diving into tech blogs, contributing to open-source, or trying to optimize the world one line of code at a time!
+</p>
+<p align="center">
+  I'm always open to collaborating on projects and learning from fellow developers. Feel free to connect with me and share your experiences!
+</p>
+
 - 🔭 I’m currently working on **GitCodeChallenge**
-- 🌱 I’m currently learning **MICROSERVICES, APACHE KAFKA, DATASTRUCTURES ALGORITHMS**
+- 🌱 I’m currently learning **MICROSERVICES, APACHE KAFKA, DATA STRUCTURES ALGORITHMS**
 - 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/14pHOeSfGu8AGUuDsnU6lvXVc-LdH7cE5/view?usp=drive_link)
 - ⚡ Fun fact: **Writing code is easy. Catching feelings? NullPointerException.**
 

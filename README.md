@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **GitCodeChallenge**
 - 🌱 I’m currently learning **MICROSERVICES, APACHE KAFKA, DATA STRUCTURES ALGORITHMS**
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/17ALJDppU-kugQc-l7eAoOXTg-1tOTOlF/view?usp=drive_link)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1NORiopByzytcAvJT4Vfjc9MdPE3lTALi/view?usp=sharing)
 - ⚡ Fun fact: **Writing code is easy. Catching feelings? NullPointerException.**
 
 <h3 align="left">Connect with me:</h3>
